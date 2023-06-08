@@ -1,1 +1,1 @@
-0x00. Shell, basics
+Tis read me file for shell permissions task
